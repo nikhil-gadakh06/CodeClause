@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class GFG {
+class URL_Shortner {
     // Function to generate a short url from integer ID
     static String idToShortURL(int n) {
         // Map to store 62 possible characters
